@@ -1,0 +1,10 @@
+.gap{
+    display: flex;
+    padding:0% 4rem;
+    font-size: large;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: white;
+    transition: all .4s;
+    cursor: pointer;
+}
